@@ -1,3 +1,2 @@
 # hello-world
-New depository
-My name is Duncan.
+Today is Wed.
